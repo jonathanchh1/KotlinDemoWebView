@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinDemoWebView</string>
+    <string name="web_demain">www.google.com</string>
+    <string name="website_domain">https://www.yahoo.com</string>
+</resources>
